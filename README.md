@@ -1,5 +1,5 @@
-# ai-machine-learning-python-keras-CNN
-Fashion Item Classifier is an AI image classifier webservice built by using Python, Keras and Tensorflow. The CNN(Convolutional Neural Network) model adopted in this project trained with the Fashion MNIST dataset.
+# ai-fashion-image-classifier
+AI Fashion Item Classifier is an AI image classifier webservice built by using Python, Keras and Tensorflow. The CNN(Convolutional Neural Network) model adopted in this project trained with the Fashion MNIST dataset.
 
 This classifer is able to identify the following 10 item type:
 | Type  |
@@ -31,7 +31,7 @@ This classifer is able to identify the following 10 item type:
 It requires Python 3.7 and related dependenices
 
 ```sh
-cd fashionImageClassifier/
+cd aiFashionImageClassifier/
 pip install
 ```
 
